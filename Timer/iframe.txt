@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The iframe element</h1>
+
+<iframe src="https://htmlpreview.github.io/?https://github.com/lucozader2000x/Timer/blob/main/Timer/index.html" width="100%" height="300" style="border:none; margin:auto; display:block;
+</iframe>
+
+</body>
+</html>
