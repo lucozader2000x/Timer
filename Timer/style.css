@@ -10,6 +10,8 @@
 }
 #timeDisplay{
     font-size: 60px;
+        font-size: 10vw;
+
     color: #42f5bc;
     font-family: consolas, monospace;
 }
