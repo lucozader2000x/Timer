@@ -9,7 +9,7 @@
     font-family: consolas, monospace;
 }
 #timeDisplay{
-    font-size: 60px;
+   // font-size: 60px;
         font-size: 3hw;
 
     color: #42f5bc;
